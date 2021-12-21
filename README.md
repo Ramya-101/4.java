@@ -21,6 +21,7 @@ public static void main (String []args)
 Scanner scn=new Scanner (System.in);
 int size=scn.nextInt;
 int[]a=new int[size];
+
 System.out.println("enter value");
 for(int i=0;i<size;i++)
 {
